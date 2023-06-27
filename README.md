@@ -19,12 +19,6 @@ Incluye la etiqueta "**challengeoneportafolio4**" o "**challengeoneportafolio5**
 
 🔹 [Link del formulario](https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp-front-end)
 
-![image](https://user-images.githubusercontent.com/92184087/208179417-7965c06e-21d6-4174-b76a-95ec648edc00.png)
-
 
 5) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este Challenge 🏆
 6) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
-
-<a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
